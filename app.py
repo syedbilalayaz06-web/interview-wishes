@@ -75,7 +75,7 @@ html_content = """
     </div>
     
     <div class="giant-heading">
-        BEST OF LUCKK FOR UR INTERVIEWWWW CUTUUU
+        BEST OF LUCKK FOR UR INTERVIEWWWW CUTUUU <3
     </div>
     
     <div class="custom-para">
